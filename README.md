@@ -31,7 +31,7 @@ Basic Networking (LAN, IP, Routing)
 
 ## 📂 Featured Projects
 
-🔹 [**Skripsi - Prediksi Status Gizi Balita**](link_repo_skripsi)  
+🔹 [**Skripsi - Prediksi Status Gizi Balita**]([link_repo_skripsi](https://github.com/skyea-projects/project-2025))  
 Developed a Logistic Regression model to predict children's nutritional status based on anthropometric and sanitation data.  
 *Tech: Python, Pandas, Scikit-learn, Matplotlib*  
 
