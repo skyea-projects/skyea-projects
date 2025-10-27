@@ -40,7 +40,7 @@ An innovative project integrating IoT and AI: a doll that detects user emotions 
 💡 Funded by **Belmawa Kemendikbudristek** and awarded as **Most Creative Team (Cluster 5)**.  
 *Tech: ESP32, Raspberry Pi, Camera Sensor, Python*  
 
-🔹 [**Web App - Nutritional Status Prediction (Streamlit)**](link_repo_streamlit)  
+🔹 [**Web App - Nutritional Status Prediction (Streamlit)**](https://github.com/skyea-projects/Web-APP-Nutritional-Status-Prediction)  
 A simple web application using Streamlit to demonstrate machine learning model deployment.  
 *Tech: Python, Streamlit, Scikit-learn*  
 
